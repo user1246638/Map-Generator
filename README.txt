@@ -1,0 +1,1 @@
+Inspired by http://mewo2.com/notes/terrain/, i want to simulate the errosion and accumulation on random terrain.
